@@ -6,7 +6,7 @@ import org.junit.Test;
 public class ArithmeticTest {
     @Test
     public void testAddition(){
-        Assert.assertEquals(4, 2 + 2);
+        Assert.assertEquals(5, 2 + 2);
     }
 
     @Test
